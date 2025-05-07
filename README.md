@@ -28,7 +28,7 @@ A fully responsive **Product Catalog Web App** built using **HTML**, **CSS**, an
 
 ## 🚀 Live Demo
 
-[🔗 Live Link ]([https://your-live-link.com](https://mrpawargit.github.io/product-search-with-DOM/))
+[🔗 Live Link ](https://your-live-link.com](https://mrpawargit.github.io/product-search-with-DOM/)
 
 ---
 
