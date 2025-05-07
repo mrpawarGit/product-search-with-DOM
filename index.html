@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Product Listing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1 id="pageTitle">Product Listing</h1>
+
+  <div id="controls">
+    <input type="text" id="searchInput" placeholder="Search products" />
+    <select id="categoryFilter">
+      <option value="all">All Categories</option>
+    </select>
+    <select id="sortSelect">
+      <option value="default">Sort By</option>
+      <option value="asc">Price: Low to High</option>
+      <option value="desc">Price: High to Low</option>
+    </select>
+  </div>
+
+  <div id="productCount"></div>
+  <div id="productGrid"></div>
+  <div id="errorMessage" style="text-align:center;color:red;"></div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
