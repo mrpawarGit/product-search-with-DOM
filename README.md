@@ -2,6 +2,8 @@
 
 A fully responsive **Product Catalog Web App** built using **HTML**, **CSS**, and **JavaScript** (no frameworks). It integrates with the [Fake Store API](https://fakestoreapi.com/) to dynamically fetch products and supports **live search**, **category filtering**, and **price sorting**.
 
+[Live Demo](https://mrpawargit.github.io/product-search-with-DOM/)
+
 ---
 
 ## 🔥 Features
@@ -26,7 +28,7 @@ A fully responsive **Product Catalog Web App** built using **HTML**, **CSS**, an
 
 ## 🚀 Live Demo
 
-[🔗 Live Link (optional)](https://your-live-link.com)
+[🔗 Live Link ]([https://your-live-link.com](https://mrpawargit.github.io/product-search-with-DOM/))
 
 ---
 
